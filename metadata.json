@@ -1,0 +1,5 @@
+{
+  "name": "Licznik do końca Kadencji Tuska",
+  "description": "Odliczanie czasu do końca X kadencji Sejmu RP (koniec rządów obecnej koalicji).",
+  "requestFramePermissions": []
+}
